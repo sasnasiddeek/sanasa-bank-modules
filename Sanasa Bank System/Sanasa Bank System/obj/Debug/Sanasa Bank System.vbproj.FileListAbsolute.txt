@@ -1,0 +1,28 @@
+c:\users\user\documents\visual studio 2015\Projects\Sanasa Bank System\Sanasa Bank System\bin\Debug\Sanasa Bank System.exe.config
+C:\Users\User\documents\visual studio 2015\Projects\Sanasa Bank System\Sanasa Bank System\bin\Debug\Sanasa Bank System.exe
+C:\Users\User\documents\visual studio 2015\Projects\Sanasa Bank System\Sanasa Bank System\bin\Debug\Sanasa Bank System.pdb
+C:\Users\User\documents\visual studio 2015\Projects\Sanasa Bank System\Sanasa Bank System\bin\Debug\Sanasa Bank System.xml
+C:\Users\User\documents\visual studio 2015\Projects\Sanasa Bank System\Sanasa Bank System\obj\Debug\Sanasa_Bank_System.Resources.resources
+C:\Users\User\documents\visual studio 2015\Projects\Sanasa Bank System\Sanasa Bank System\obj\Debug\Sanasa Bank System.vbproj.GenerateResource.Cache
+C:\Users\User\documents\visual studio 2015\Projects\Sanasa Bank System\Sanasa Bank System\obj\Debug\Sanasa Bank System.exe
+C:\Users\User\documents\visual studio 2015\Projects\Sanasa Bank System\Sanasa Bank System\obj\Debug\Sanasa Bank System.xml
+C:\Users\User\documents\visual studio 2015\Projects\Sanasa Bank System\Sanasa Bank System\obj\Debug\Sanasa Bank System.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\Sanasa Bank System\Sanasa Bank System\bin\Debug\MySql.Data.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\Sanasa Bank System\Sanasa Bank System\bin\Debug\Google.Protobuf.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\Sanasa Bank System\Sanasa Bank System\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\Sanasa Bank System\Sanasa Bank System\bin\Debug\MySql.Data.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\Sanasa Bank System\Sanasa Bank System\obj\Debug\Sanasa_Bank_System.Customer_Registation.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\Sanasa Bank System\Sanasa Bank System\obj\Debug\Sanasa_Bank_System.Customer.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\Sanasa Bank System\Sanasa Bank System\obj\Debug\Sanasa_Bank_System.Form1.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\Sanasa Bank System\Sanasa Bank System\obj\Debug\Sanasa_Bank_System.mail_2.resources
+C:\Users\User\documents\visual studio 2015\Projects\Sanasa Bank System\Sanasa Bank System\obj\Debug\Sanasa_Bank_System.document.resources
+C:\Users\User\documents\visual studio 2015\Projects\Sanasa Bank System\Sanasa Bank System\obj\Debug\Sanasa_Bank_System.Employee_document.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\Sanasa Bank System\Sanasa Bank System\obj\Debug\Sanasa_Bank_System.view_document.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\Sanasa Bank System\Sanasa Bank System\obj\Debug\Sanasa Bank System.vbprojResolveAssemblyReference.cache
+C:\Users\User\documents\visual studio 2015\Projects\Sanasa Bank System\Sanasa Bank System\obj\Debug\Sanasa_Bank_System.addcatagory.resources
+C:\Users\User\documents\visual studio 2015\Projects\Sanasa Bank System\Sanasa Bank System\obj\Debug\Sanasa_Bank_System.AccountType.resources
+C:\Users\User\documents\visual studio 2015\Projects\Sanasa Bank System\Sanasa Bank System\obj\Debug\Sanasa_Bank_System.Customertype.resources
+C:\Users\User\documents\visual studio 2015\Projects\Sanasa Bank System\Sanasa Bank System\obj\Debug\Sanasa_Bank_System.viewcustomer.resources
+C:\Users\User\documents\visual studio 2015\Projects\Sanasa Bank System\Sanasa Bank System\obj\Debug\Sanasa_Bank_System.viewemployeedocument.resources
+C:\Users\User\documents\visual studio 2015\Projects\Sanasa Bank System\Sanasa Bank System\obj\Debug\Sanasa_Bank_System.viewemployeedocumentdetails.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\Sanasa Bank System\Sanasa Bank System\obj\Debug\Sanasa_Bank_System.viewcustomerregistraion.resources
